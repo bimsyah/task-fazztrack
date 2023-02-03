@@ -1,6 +1,6 @@
 Daily Report QA
 
-Bima Syahputra 2023
+Yanto 2023
 
 Scenario test for BDD
 
