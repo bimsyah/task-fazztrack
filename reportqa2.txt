@@ -1,0 +1,15 @@
+Daily Report QA
+
+Surya Saputra 2023
+
+Scenario test for BDD
+
+2. User Edit Profile
+        - Given user is on home page
+        - When user click the profile with the photo logo
+        - And user click edit profile
+        - And click change profile photo
+        - And choose upload photo
+        - And select your photo
+        - And save the changes
+        - Then user succesfully change the profile photo
