@@ -1,0 +1,14 @@
+Daily Report QA
+
+Bima Syahputra 2023
+
+Scenario test for BDD
+1. User Sign Up
+        - Given user is on sign up page
+        - When user input the email with "bimasyah8@gmail.com"
+        - And user input full name with "Bima Syahputra"
+        - And user input the password with "Halo123"
+        - And User Sign up
+        - And User Check the email verification
+        - And user click the verification 
+        - Then user succesfully sign up
